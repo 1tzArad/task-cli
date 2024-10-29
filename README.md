@@ -24,4 +24,6 @@ Here are some constraints to guide the implementation:
 * Ensure to handle errors and edge cases gracefully.
 
 
-> **Note:** This project is inspired by and based on an idea from [roadmap.sh](https://roadmap.sh/projects/task-tracker). All credits for the original project concept go to the creators of roadmap.sh.
+
+
+> **Note:** This project is part of the project section on [roadmap.sh](https://roadmap.sh/projects/task-tracker), created to help developers practice and enhance their skills. All credit for the project idea goes to roadmap.sh.
