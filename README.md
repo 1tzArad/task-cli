@@ -22,3 +22,6 @@ Here are some constraints to guide the implementation:
 * Use the native file system module of your programming language to interact with the JSON file.
 * Do not use any external libraries or frameworks to build this project.
 * Ensure to handle errors and edge cases gracefully.
+
+
+> **Note:** This project is inspired by and based on an idea from [roadmap.sh](https://roadmap.sh/projects/task-tracker). All credits for the original project concept go to the creators of roadmap.sh.
